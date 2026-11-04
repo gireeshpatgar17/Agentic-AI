@@ -52,10 +52,6 @@ jupyter notebook
 
 Groq API access and a valid API key are required for model-backed cells. Some examples also use network-backed tools.
 
-## Screenshots and demo
-
-No screenshots or hosted demo are included; examples and outputs are in the notebook.
-
 ## Author
 
 **Gireesh Sadanand Patgar** · [GitHub](https://github.com/gireeshpatgar17)
